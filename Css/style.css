@@ -552,7 +552,7 @@ body {
 
 .grid__image {
     z-index: 1;
-   background: linear-gradient(rgba(34, 56, 102, 0.363),rgba(31, 50, 90, 0.726)),url(../img/footer-homie.jpg);
+   background: linear-gradient(rgba(34, 56, 102, 0.363),rgba(31, 50, 90, 0.726)),url(../Img/footer-homie.jpg);
   width: calc(100% - 5rem);
   margin: 0 auto;
     height: 40rem;
